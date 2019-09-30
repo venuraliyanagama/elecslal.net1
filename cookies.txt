@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+elecslal.net	TRUE	/	FALSE	1999999999	MoodleSession	3ac9708df612f9d7ced40826cfebd70c
+.prodects.com	TRUE	/	FALSE	1999999999	__cfduid	de359fc266e2682b8c7c8e102d60762d41569865685
+

@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 30 Sep 2019 23:29:35 at http://elecslal.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://elecslal.net/ -O1 "C:\Users\Shya-pc\Desktop\final web upload\elecslal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:39:06	Error: 	"not found" (404) at link elecslal.net/theme/image.php/standard/theme/1393363531/fp/view_icon_selected (from elecslal.net/theme/styles.php/standard/1393363531/all)
+00:50:22	Warning: 	Retry after error -4 (No data (connection closed)) at link elecslal.net/calendar/set.php?return=aHR0cDovL2VsZWNzbGFsLm5ldC9jYWxlbmRhci92aWV3LnBocD92aWV3PWRheSZ0aW1lPTE1Nzg4MDUyMDAmY291cnNlPTE%3D&sesskey=iJhtJyp6Mi&var=showcourses (from elecslal.net/calendar/view.php?view=day&course=1&time=1578805200)
+00:52:43	Warning: 	See Other for elecslal.net/calendar/set.php?return=aHR0cDovL2VsZWNzbGFsLm5ldC9jYWxlbmRhci92aWV3LnBocD92aWV3PWRheSZ0aW1lPTE1Nzg4MDUyMDAmY291cnNlPTE%3D&sesskey=iJhtJyp6Mi&var=showcourses
+00:52:43	Warning: 	File has moved from elecslal.net/calendar/set.php?return=aHR0cDovL2VsZWNzbGFsLm5ldC9jYWxlbmRhci92aWV3LnBocD92aWV3PWRheSZ0aW1lPTE1Nzg4MDUyMDAmY291cnNlPTE%3D&sesskey=iJhtJyp6Mi&var=showcourses to http://elecslal.net/calendar/view.php?view=day&time=1578805200&course=1
+01:11:18	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 41 minutes 44 seconds : 2420 links scanned, 2416 files written (71989629 bytes overall) [38668435 bytes received at 6334 bytes/sec], 55381709 bytes transferred using HTTP compression in 5823 files, ratio 31%, 8.6 requests per connection
+(2 errors, 3 warnings, 0 messages)
